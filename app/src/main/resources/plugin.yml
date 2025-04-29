@@ -1,0 +1,5 @@
+name: MinecraftPlugin
+version: 1.0
+main: MainPlugin
+api-version: 1.21
+description: A plugin for Telegram bot integration and anticheat
